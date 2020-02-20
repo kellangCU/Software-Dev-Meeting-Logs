@@ -1,0 +1,18 @@
+Our group met at the Engineering Library in the Math Building from 9:30am to 11:30am.
+Members in attendance:
+- Jason Hill
+- Etash Kalra
+- Sean Masucci
+- Kellan Gerken
+- Ethan Olander
+
+We talked about the layout of our website and drew up mockups of each page. The pages we discussed having are:
+-Login
+-Homescreen Scroll/Search
+-Calendar of Saved Events
+-Settings
+-Add event page
+
+We also made a final decision on what we will be using for backend and middle layers. For these we will be using SQL and nodeJS.
+
+In addition, we discussed the hosting of our website, we didn't decide on an option, but we looked at the possibilities of using Google cloud, Github pages, and Amazon web services
